@@ -12,15 +12,15 @@
     background: url(https://www.wallpaperup.com/uploads/wallpapers/2014/11/09/511920/45482ae7629d9bbc982b907b8d90e776.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    height:490px;
-    width:1200px;
+    height:550px;
+    width:1350px;
 }
 .main:hover{
     background: url(http://www.snackandbakery.com/ext/resources/images/bakeryproducts.jpg?1432238179);
     background-repeat: no-repeat;
     background-size:cover;
-    height:490px;
-    width:1200px;
+    height:550px;
+    width:1350px;
     animation: pic 9s infinite;
 } 
 @keyframes pic{
@@ -28,36 +28,36 @@
     background: url(https://images7.alphacoders.com/368/368875.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    height:490px;
-    width:1200px;
+    height:550px;
+    width:1350px;
 }
 25%{
     background: url(https://images6.alphacoders.com/100/thumb-1920-1002209.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    height:490px;
-    width:1200px;
+    height:550px;
+    width:1350px;
 }
 50%{
     background: url(https://logitrustvoyages.com/logitrustblog/wp-content/uploads/2020/07/street_food.jpeg);
     background-repeat: no-repeat;
     background-size:cover;
-    height:490px;
-    width:1200px;
+    height:550px;
+    width:1350px;
 }
 75%{
     background: url(http://www.travelsiteindia.com/blog/wp-content/uploads/2018/04/traditional-indian-food-sessions.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    height:490px;
-    width:1200px;
+    height:550px;
+    width:1350px;
 }
 100%{
     background: url(https://wallpapercave.com/wp/wp3376127.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    height:490px;
-    width:1200px;
+    height:550px;
+    width:1350px;
 }
 }
 .mai{
@@ -110,4 +110,9 @@
     position: absolute;
     margin-top:-470px;
     margin-left: 150px;
+}
+.biu{
+    border-radius: 50%;
+    margin-left:500px;
+    margin-top:100px;
 }

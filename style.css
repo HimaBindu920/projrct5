@@ -56,10 +56,6 @@
      margin-left:230px;
      margin-top:-20px;
 }
-.hu{
-    margin-left:200px;
-    margin-top:-40px;
-}
 .nih{
     overflow: auto;
     white-space:nowrap;
@@ -584,4 +580,23 @@
     padding:5px;
     font-size: 20px;
   }
-  
+.mon{
+  position: relative;
+    display: inline-block;
+}
+.hu{
+  margin-left:300px;
+  margin-top:-10px;
+}
+.content {
+  display: none;
+  position: absolute;
+  background-color: #0c0000;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  margin-left:250px;
+  padding: 12px 16px;
+  z-index: 1;
+}
+.mon:hover .content {
+  display: block;
+}
